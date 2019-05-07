@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="bill">BILL AMOUNT</string>
+    <string name="billAmt">Enter Bill Amount</string>
+    <string name="pax">NUMBER OF PEOPLE</string>
+    <string name="paxAmt">Enter Number Of People</string>
+    <string name="gst">GST</string>
+    <string name="svc">Service Charge</string>
+
+</resources>

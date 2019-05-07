@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="Show only selected application" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="63810bd6-da92-483f-bd68-ee92251384e8" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FUSProjectUsageTrigger">
+        <session id="-861842462">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry
+                        key="project.open.time.10"
+                        value="1" />
+                    <entry
+                        key="project.open.time.3"
+                        value="1" />
+                    <entry
+                        key="project.opened"
+                        value="2" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry
+                        key="java"
+                        value="1" />
+                    <entry
+                        key="xml"
+                        value="4" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="1" />
+                    <entry
+                        key="XML"
+                        value="4" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry
+                        key="java"
+                        value="239" />
+                    <entry
+                        key="txt"
+                        value="140" />
+                    <entry
+                        key="xml"
+                        value="169" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="239" />
+                    <entry
+                        key="PLAIN_TEXT"
+                        value="140" />
+                    <entry
+                        key="XML"
+                        value="169" />
+                </counts>
+            </usages-collector>
+        </session>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider editor-type-id="text-editor">
+                        <state relative-caret-position="114">
+                            <caret
+                                column="47"
+                                lean-forward="true"
+                                line="26"
+                                selection-end-column="47"
+                                selection-end-line="26"
+                                selection-start-column="47"
+                                selection-start-line="26" />
+                        </state>
+                    </provider>
+                    <provider
+                        editor-type-id="android-designer2"
+                        selected="true" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_part1.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                    <provider editor-type-id="android-designer2" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="68">
+                            <caret
+                                column="48"
+                                line="4"
+                                selection-end-column="48"
+                                selection-end-line="4"
+                                selection-start-column="48"
+                                selection-start-line="4" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/sg/edu/rp/c346/simpleclick/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="357">
+                            <caret
+                                column="24"
+                                line="26"
+                                selection-end-column="24"
+                                selection-end-line="26"
+                                selection-start-column="24"
+                                selection-start-line="26" />
+                            <folding>
+                                <element
+                                    expanded="true"
+                                    signature="imports" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/java/sg/edu/rp/c346/simpleclick/MainActivity.java" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+            </list>
+        </option>
+    </component>
+    <component name="ProjectFrameBounds">
+        <option
+            name="x"
+            value="-8" />
+        <option
+            name="width"
+            value="977" />
+        <option
+            name="height"
+            value="1038" />
+    </component>
+    <component name="ProjectView">
+        <navigator proportions=""
